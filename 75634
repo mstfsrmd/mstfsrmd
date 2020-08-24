@@ -1,0 +1,491 @@
+<!DOCTYPE html>
+<html>
+  <head lang="en">
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <title>bootstrap 4 practice</title>
+    <link rel="stylesheet" href="pr1.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+  </head>
+  <body>
+    <div id="photo">
+      <nav id="nav">
+        <ul id="nav_li">
+          <li class="n_l" id="nav_li1"><a href="#">Home</a></li>
+          <li class="n_l" id="nav_li2"><a href="#">About</a></li>
+          <li class="n_l" id="nav_li3"><a href="#">Skills</a></li>
+          <li class="n_l" id="nav_li4"><a href="#">Experiences</a></li>
+          <li class="n_l" id="nav_li5"><a href="#">Portfolio</a></li>
+          <li class="n_l" id="nav_li6"><a href="#">Princing</a></li>
+          <li class="n_l" id="nav_li7"><a href="#">Blog</a></li>
+          <li class="n_l" id="nav_li8"><a href="#">Contact</a></li>
+        </ul>
+      </nav>
+      <div id="icon" onclick="myf()">
+          <a href="#">
+            <div class="icon_h" id="icon_h1"></div>
+            <div class="icon_h" id="icon_h3"></div>
+          </a>
+        </div>
+        <div id="img_con">
+          <a href="#"><img src="pngwing.com.png" id="nav_img" alt="#"></a>
+        </div>
+
+        <header id="hed">
+          <h1 id="hed_h1">This is salient!</h1>
+          <p id="hed_p">Be the best in everything!</p>
+          <div id="butt">
+            <button type="button" id="but1">View our work</button>
+            <button type="button" id="but2">Learn about us</button>
+          </div>
+        </header>
+    </div>
+    <p>Outplay the competition with a website that is fully imbued with groundbreaking tools and features. Maha is the resume website template you will ever need for your portfolio. It features a fresh and sophisticated look, ideal for job hunters who want to stand out. Of course, even if you are a freelancer, looking to expand your reach, again, Maha will do the trick for you.
+
+This template is truly versatile as it covers every niche possible. There are multiple dark and light layouts to choose from, all formed to provide excellence. Maha is also responsive which elevates your website’s appearance. Not only does this make your website look great, but it also allows for effective online prominence with other modern and practical features. Lastly, contact support immediately as they are welcoming and compliant to answer your questions.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Prorez
+prorez resume website template
+When you want to get online with a one-page website, Prorez is a great template to do it with. It is specially designed for your resume or portfolio to showcase everything in a classic, professional and impactful way. It uses the Elementor page builder with the drag and drop feature to help create the page style you want. Of course, when working with Prorez, you do not need coding skills. You do not have to be a designer either.
+
+You can create a professional introduction for those visiting your page, display your work and offer content to highlight who and what you care about. In short, push your services and talents to new heights. This resume website template is responsive and flexible, making sure your page looks great on all modern browsers and devices. The tool is 100% translatable, too, so you get to alter it to your local audience with ease.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Leven
+leven resume website template
+Leven is a great template to promote yourself in a sophisticated and enticing manner that will get you noticed. The cleanness and minimalism of Leven make sure all the details and custom content stand out beautifully. Even when it comes to different devices and browsers, Leven operates flawlessly for continuous smooth performance.
+
+By using the drag and drop page builder, you will make this resume website template look its best, and you do not need to know how to program to make it happen. Leven lets you create your specialized website best suited to you visually. With six different index page layouts, you can quickly find the right style that serves your intention. With all the other predefined layouts along with various plugins, you should have your one-page website up and live with great content and professional appearance with very little work.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Volos
+volos resume website template
+Building a personal online portfolio website is no trouble once you gain complete access to Volos. With the solution, you can easily make your page stand out from the masses. Volos offers everything you will need to make your site eye-catchy and attention-grabbing. The three predefined demos will give you options to set your style and create your website out of the box. Elementor lets you use its drag and drop technology with simplicity, so you can level up your page with your creative touch. Assembling your page will be a child’s play with Volos.
+
+Some other features of the tool include parallax effect, video background, smooth scrolling, Ajax content loading and child theme. You can add or remove different sections and create the look that is precisely to your liking. Moreover, if you ever find yourself in need of help, you can always reach out to Volos’ fantastic customer support to sort things out.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Arlo
+arlo resume website template
+With Arlo, you will get the total package of website design equipment and more. Perfect for personal websites, freelancers and even agency sites, this is truly one of the best resume website templates currently available on the market. Arlo comes with five unique, original and striking demos and you can expect more to drop with future template updates. On top of that, you can also modify and adjust Arlo to fit your personal brand without hassle.
+
+By utilizing only the latest technologies in web design, it is guaranteed that your website will be mobile-friendly, pixel-perfect and cross-browser compatible. If you would like to get your name out there in a unique and original way, you better consider using Arlo. But first, head over to the live preview page and indulge yourself in the amazingness Arlo brings to the table.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Jonjul
+jonjul resume website template
+Jonjul might become your favorite resume website template thanks to its easy to use structure that creates eye-catchy websites. Fully responsive, Jonjul’s ready-made material looks perfect on either desktop or mobile devices. Moreover, your outcome will also work smoothly on all web browsers and retina screens, ensuring a stable and outstanding experience. You can now create a dark, a light or a gradient-enhanced online resume or CV website that will push your professionalism to new levels.
+
+Other treats of Jonjul are functional contact form, Linea icons, free Google fonts, Bootstrap 4 and impressive typewriter effect. Of course, the hype does not end here. Jonjul is a pack full of goods that will help you succeed no matter what your experience and skills are all about. You also have all the right to modify the web design however you fancy.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Hendrix
+hendrix resume website template
+There is little work and time involved to finish page development when you gain access to Hendrix resume website template. Make it yours by introducing your personal touch to it and attract new visitors and turn them into potential clients. The opportunity is out there and you are leaving a ton of money on the table if you do not have a page created yet.
+
+Equipped with all the required and then some, Hendrix provides loads of options for you to craft something special for yourself. You can utilize one of three different background styles and six color schemes and even start a blog. That’s right, blogging is possible, too, and you can use it for content marketing and to tell more about your works and process. No need to wait, start the journey now and get the traction going.</p>
+<p>Outplay the competition with a website that is fully imbued with groundbreaking tools and features. Maha is the resume website template you will ever need for your portfolio. It features a fresh and sophisticated look, ideal for job hunters who want to stand out. Of course, even if you are a freelancer, looking to expand your reach, again, Maha will do the trick for you.
+
+This template is truly versatile as it covers every niche possible. There are multiple dark and light layouts to choose from, all formed to provide excellence. Maha is also responsive which elevates your website’s appearance. Not only does this make your website look great, but it also allows for effective online prominence with other modern and practical features. Lastly, contact support immediately as they are welcoming and compliant to answer your questions.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Prorez
+prorez resume website template
+When you want to get online with a one-page website, Prorez is a great template to do it with. It is specially designed for your resume or portfolio to showcase everything in a classic, professional and impactful way. It uses the Elementor page builder with the drag and drop feature to help create the page style you want. Of course, when working with Prorez, you do not need coding skills. You do not have to be a designer either.
+
+You can create a professional introduction for those visiting your page, display your work and offer content to highlight who and what you care about. In short, push your services and talents to new heights. This resume website template is responsive and flexible, making sure your page looks great on all modern browsers and devices. The tool is 100% translatable, too, so you get to alter it to your local audience with ease.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Leven
+leven resume website template
+Leven is a great template to promote yourself in a sophisticated and enticing manner that will get you noticed. The cleanness and minimalism of Leven make sure all the details and custom content stand out beautifully. Even when it comes to different devices and browsers, Leven operates flawlessly for continuous smooth performance.
+
+By using the drag and drop page builder, you will make this resume website template look its best, and you do not need to know how to program to make it happen. Leven lets you create your specialized website best suited to you visually. With six different index page layouts, you can quickly find the right style that serves your intention. With all the other predefined layouts along with various plugins, you should have your one-page website up and live with great content and professional appearance with very little work.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Volos
+volos resume website template
+Building a personal online portfolio website is no trouble once you gain complete access to Volos. With the solution, you can easily make your page stand out from the masses. Volos offers everything you will need to make your site eye-catchy and attention-grabbing. The three predefined demos will give you options to set your style and create your website out of the box. Elementor lets you use its drag and drop technology with simplicity, so you can level up your page with your creative touch. Assembling your page will be a child’s play with Volos.
+
+Some other features of the tool include parallax effect, video background, smooth scrolling, Ajax content loading and child theme. You can add or remove different sections and create the look that is precisely to your liking. Moreover, if you ever find yourself in need of help, you can always reach out to Volos’ fantastic customer support to sort things out.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Arlo
+arlo resume website template
+With Arlo, you will get the total package of website design equipment and more. Perfect for personal websites, freelancers and even agency sites, this is truly one of the best resume website templates currently available on the market. Arlo comes with five unique, original and striking demos and you can expect more to drop with future template updates. On top of that, you can also modify and adjust Arlo to fit your personal brand without hassle.
+
+By utilizing only the latest technologies in web design, it is guaranteed that your website will be mobile-friendly, pixel-perfect and cross-browser compatible. If you would like to get your name out there in a unique and original way, you better consider using Arlo. But first, head over to the live preview page and indulge yourself in the amazingness Arlo brings to the table.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Jonjul
+jonjul resume website template
+Jonjul might become your favorite resume website template thanks to its easy to use structure that creates eye-catchy websites. Fully responsive, Jonjul’s ready-made material looks perfect on either desktop or mobile devices. Moreover, your outcome will also work smoothly on all web browsers and retina screens, ensuring a stable and outstanding experience. You can now create a dark, a light or a gradient-enhanced online resume or CV website that will push your professionalism to new levels.
+
+Other treats of Jonjul are functional contact form, Linea icons, free Google fonts, Bootstrap 4 and impressive typewriter effect. Of course, the hype does not end here. Jonjul is a pack full of goods that will help you succeed no matter what your experience and skills are all about. You also have all the right to modify the web design however you fancy.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Hendrix
+hendrix resume website template
+There is little work and time involved to finish page development when you gain access to Hendrix resume website template. Make it yours by introducing your personal touch to it and attract new visitors and turn them into potential clients. The opportunity is out there and you are leaving a ton of money on the table if you do not have a page created yet.
+
+Equipped with all the required and then some, Hendrix provides loads of options for you to craft something special for yourself. You can utilize one of three different background styles and six color schemes and even start a blog. That’s right, blogging is possible, too, and you can use it for content marketing and to tell more about your works and process. No need to wait, start the journey now and get the traction going.</p>
+<p>Outplay the competition with a website that is fully imbued with groundbreaking tools and features. Maha is the resume website template you will ever need for your portfolio. It features a fresh and sophisticated look, ideal for job hunters who want to stand out. Of course, even if you are a freelancer, looking to expand your reach, again, Maha will do the trick for you.
+
+This template is truly versatile as it covers every niche possible. There are multiple dark and light layouts to choose from, all formed to provide excellence. Maha is also responsive which elevates your website’s appearance. Not only does this make your website look great, but it also allows for effective online prominence with other modern and practical features. Lastly, contact support immediately as they are welcoming and compliant to answer your questions.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Prorez
+prorez resume website template
+When you want to get online with a one-page website, Prorez is a great template to do it with. It is specially designed for your resume or portfolio to showcase everything in a classic, professional and impactful way. It uses the Elementor page builder with the drag and drop feature to help create the page style you want. Of course, when working with Prorez, you do not need coding skills. You do not have to be a designer either.
+
+You can create a professional introduction for those visiting your page, display your work and offer content to highlight who and what you care about. In short, push your services and talents to new heights. This resume website template is responsive and flexible, making sure your page looks great on all modern browsers and devices. The tool is 100% translatable, too, so you get to alter it to your local audience with ease.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Leven
+leven resume website template
+Leven is a great template to promote yourself in a sophisticated and enticing manner that will get you noticed. The cleanness and minimalism of Leven make sure all the details and custom content stand out beautifully. Even when it comes to different devices and browsers, Leven operates flawlessly for continuous smooth performance.
+
+By using the drag and drop page builder, you will make this resume website template look its best, and you do not need to know how to program to make it happen. Leven lets you create your specialized website best suited to you visually. With six different index page layouts, you can quickly find the right style that serves your intention. With all the other predefined layouts along with various plugins, you should have your one-page website up and live with great content and professional appearance with very little work.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Volos
+volos resume website template
+Building a personal online portfolio website is no trouble once you gain complete access to Volos. With the solution, you can easily make your page stand out from the masses. Volos offers everything you will need to make your site eye-catchy and attention-grabbing. The three predefined demos will give you options to set your style and create your website out of the box. Elementor lets you use its drag and drop technology with simplicity, so you can level up your page with your creative touch. Assembling your page will be a child’s play with Volos.
+
+Some other features of the tool include parallax effect, video background, smooth scrolling, Ajax content loading and child theme. You can add or remove different sections and create the look that is precisely to your liking. Moreover, if you ever find yourself in need of help, you can always reach out to Volos’ fantastic customer support to sort things out.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Arlo
+arlo resume website template
+With Arlo, you will get the total package of website design equipment and more. Perfect for personal websites, freelancers and even agency sites, this is truly one of the best resume website templates currently available on the market. Arlo comes with five unique, original and striking demos and you can expect more to drop with future template updates. On top of that, you can also modify and adjust Arlo to fit your personal brand without hassle.
+
+By utilizing only the latest technologies in web design, it is guaranteed that your website will be mobile-friendly, pixel-perfect and cross-browser compatible. If you would like to get your name out there in a unique and original way, you better consider using Arlo. But first, head over to the live preview page and indulge yourself in the amazingness Arlo brings to the table.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Jonjul
+jonjul resume website template
+Jonjul might become your favorite resume website template thanks to its easy to use structure that creates eye-catchy websites. Fully responsive, Jonjul’s ready-made material looks perfect on either desktop or mobile devices. Moreover, your outcome will also work smoothly on all web browsers and retina screens, ensuring a stable and outstanding experience. You can now create a dark, a light or a gradient-enhanced online resume or CV website that will push your professionalism to new levels.
+
+Other treats of Jonjul are functional contact form, Linea icons, free Google fonts, Bootstrap 4 and impressive typewriter effect. Of course, the hype does not end here. Jonjul is a pack full of goods that will help you succeed no matter what your experience and skills are all about. You also have all the right to modify the web design however you fancy.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Hendrix
+hendrix resume website template
+There is little work and time involved to finish page development when you gain access to Hendrix resume website template. Make it yours by introducing your personal touch to it and attract new visitors and turn them into potential clients. The opportunity is out there and you are leaving a ton of money on the table if you do not have a page created yet.
+
+Equipped with all the required and then some, Hendrix provides loads of options for you to craft something special for yourself. You can utilize one of three different background styles and six color schemes and even start a blog. That’s right, blogging is possible, too, and you can use it for content marketing and to tell more about your works and process. No need to wait, start the journey now and get the traction going.</p>
+    <p>Outplay the competition with a website that is fully imbued with groundbreaking tools and features. Maha is the resume website template you will ever need for your portfolio. It features a fresh and sophisticated look, ideal for job hunters who want to stand out. Of course, even if you are a freelancer, looking to expand your reach, again, Maha will do the trick for you.
+
+This template is truly versatile as it covers every niche possible. There are multiple dark and light layouts to choose from, all formed to provide excellence. Maha is also responsive which elevates your website’s appearance. Not only does this make your website look great, but it also allows for effective online prominence with other modern and practical features. Lastly, contact support immediately as they are welcoming and compliant to answer your questions.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Prorez
+prorez resume website template
+When you want to get online with a one-page website, Prorez is a great template to do it with. It is specially designed for your resume or portfolio to showcase everything in a classic, professional and impactful way. It uses the Elementor page builder with the drag and drop feature to help create the page style you want. Of course, when working with Prorez, you do not need coding skills. You do not have to be a designer either.
+
+You can create a professional introduction for those visiting your page, display your work and offer content to highlight who and what you care about. In short, push your services and talents to new heights. This resume website template is responsive and flexible, making sure your page looks great on all modern browsers and devices. The tool is 100% translatable, too, so you get to alter it to your local audience with ease.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Leven
+leven resume website template
+Leven is a great template to promote yourself in a sophisticated and enticing manner that will get you noticed. The cleanness and minimalism of Leven make sure all the details and custom content stand out beautifully. Even when it comes to different devices and browsers, Leven operates flawlessly for continuous smooth performance.
+
+By using the drag and drop page builder, you will make this resume website template look its best, and you do not need to know how to program to make it happen. Leven lets you create your specialized website best suited to you visually. With six different index page layouts, you can quickly find the right style that serves your intention. With all the other predefined layouts along with various plugins, you should have your one-page website up and live with great content and professional appearance with very little work.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Volos
+volos resume website template
+Building a personal online portfolio website is no trouble once you gain complete access to Volos. With the solution, you can easily make your page stand out from the masses. Volos offers everything you will need to make your site eye-catchy and attention-grabbing. The three predefined demos will give you options to set your style and create your website out of the box. Elementor lets you use its drag and drop technology with simplicity, so you can level up your page with your creative touch. Assembling your page will be a child’s play with Volos.
+
+Some other features of the tool include parallax effect, video background, smooth scrolling, Ajax content loading and child theme. You can add or remove different sections and create the look that is precisely to your liking. Moreover, if you ever find yourself in need of help, you can always reach out to Volos’ fantastic customer support to sort things out.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Arlo
+arlo resume website template
+With Arlo, you will get the total package of website design equipment and more. Perfect for personal websites, freelancers and even agency sites, this is truly one of the best resume website templates currently available on the market. Arlo comes with five unique, original and striking demos and you can expect more to drop with future template updates. On top of that, you can also modify and adjust Arlo to fit your personal brand without hassle.
+
+By utilizing only the latest technologies in web design, it is guaranteed that your website will be mobile-friendly, pixel-perfect and cross-browser compatible. If you would like to get your name out there in a unique and original way, you better consider using Arlo. But first, head over to the live preview page and indulge yourself in the amazingness Arlo brings to the table.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Jonjul
+jonjul resume website template
+Jonjul might become your favorite resume website template thanks to its easy to use structure that creates eye-catchy websites. Fully responsive, Jonjul’s ready-made material looks perfect on either desktop or mobile devices. Moreover, your outcome will also work smoothly on all web browsers and retina screens, ensuring a stable and outstanding experience. You can now create a dark, a light or a gradient-enhanced online resume or CV website that will push your professionalism to new levels.
+
+Other treats of Jonjul are functional contact form, Linea icons, free Google fonts, Bootstrap 4 and impressive typewriter effect. Of course, the hype does not end here. Jonjul is a pack full of goods that will help you succeed no matter what your experience and skills are all about. You also have all the right to modify the web design however you fancy.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Hendrix
+hendrix resume website template
+There is little work and time involved to finish page development when you gain access to Hendrix resume website template. Make it yours by introducing your personal touch to it and attract new visitors and turn them into potential clients. The opportunity is out there and you are leaving a ton of money on the table if you do not have a page created yet.
+
+Equipped with all the required and then some, Hendrix provides loads of options for you to craft something special for yourself. You can utilize one of three different background styles and six color schemes and even start a blog. That’s right, blogging is possible, too, and you can use it for content marketing and to tell more about your works and process. No need to wait, start the journey now and get the traction going.</p>
+    <p>Outplay the competition with a website that is fully imbued with groundbreaking tools and features. Maha is the resume website template you will ever need for your portfolio. It features a fresh and sophisticated look, ideal for job hunters who want to stand out. Of course, even if you are a freelancer, looking to expand your reach, again, Maha will do the trick for you.
+
+This template is truly versatile as it covers every niche possible. There are multiple dark and light layouts to choose from, all formed to provide excellence. Maha is also responsive which elevates your website’s appearance. Not only does this make your website look great, but it also allows for effective online prominence with other modern and practical features. Lastly, contact support immediately as they are welcoming and compliant to answer your questions.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Prorez
+prorez resume website template
+When you want to get online with a one-page website, Prorez is a great template to do it with. It is specially designed for your resume or portfolio to showcase everything in a classic, professional and impactful way. It uses the Elementor page builder with the drag and drop feature to help create the page style you want. Of course, when working with Prorez, you do not need coding skills. You do not have to be a designer either.
+
+You can create a professional introduction for those visiting your page, display your work and offer content to highlight who and what you care about. In short, push your services and talents to new heights. This resume website template is responsive and flexible, making sure your page looks great on all modern browsers and devices. The tool is 100% translatable, too, so you get to alter it to your local audience with ease.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Leven
+leven resume website template
+Leven is a great template to promote yourself in a sophisticated and enticing manner that will get you noticed. The cleanness and minimalism of Leven make sure all the details and custom content stand out beautifully. Even when it comes to different devices and browsers, Leven operates flawlessly for continuous smooth performance.
+
+By using the drag and drop page builder, you will make this resume website template look its best, and you do not need to know how to program to make it happen. Leven lets you create your specialized website best suited to you visually. With six different index page layouts, you can quickly find the right style that serves your intention. With all the other predefined layouts along with various plugins, you should have your one-page website up and live with great content and professional appearance with very little work.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Volos
+volos resume website template
+Building a personal online portfolio website is no trouble once you gain complete access to Volos. With the solution, you can easily make your page stand out from the masses. Volos offers everything you will need to make your site eye-catchy and attention-grabbing. The three predefined demos will give you options to set your style and create your website out of the box. Elementor lets you use its drag and drop technology with simplicity, so you can level up your page with your creative touch. Assembling your page will be a child’s play with Volos.
+
+Some other features of the tool include parallax effect, video background, smooth scrolling, Ajax content loading and child theme. You can add or remove different sections and create the look that is precisely to your liking. Moreover, if you ever find yourself in need of help, you can always reach out to Volos’ fantastic customer support to sort things out.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Arlo
+arlo resume website template
+With Arlo, you will get the total package of website design equipment and more. Perfect for personal websites, freelancers and even agency sites, this is truly one of the best resume website templates currently available on the market. Arlo comes with five unique, original and striking demos and you can expect more to drop with future template updates. On top of that, you can also modify and adjust Arlo to fit your personal brand without hassle.
+
+By utilizing only the latest technologies in web design, it is guaranteed that your website will be mobile-friendly, pixel-perfect and cross-browser compatible. If you would like to get your name out there in a unique and original way, you better consider using Arlo. But first, head over to the live preview page and indulge yourself in the amazingness Arlo brings to the table.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Jonjul
+jonjul resume website template
+Jonjul might become your favorite resume website template thanks to its easy to use structure that creates eye-catchy websites. Fully responsive, Jonjul’s ready-made material looks perfect on either desktop or mobile devices. Moreover, your outcome will also work smoothly on all web browsers and retina screens, ensuring a stable and outstanding experience. You can now create a dark, a light or a gradient-enhanced online resume or CV website that will push your professionalism to new levels.
+
+Other treats of Jonjul are functional contact form, Linea icons, free Google fonts, Bootstrap 4 and impressive typewriter effect. Of course, the hype does not end here. Jonjul is a pack full of goods that will help you succeed no matter what your experience and skills are all about. You also have all the right to modify the web design however you fancy.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Hendrix
+hendrix resume website template
+There is little work and time involved to finish page development when you gain access to Hendrix resume website template. Make it yours by introducing your personal touch to it and attract new visitors and turn them into potential clients. The opportunity is out there and you are leaving a ton of money on the table if you do not have a page created yet.
+
+Equipped with all the required and then some, Hendrix provides loads of options for you to craft something special for yourself. You can utilize one of three different background styles and six color schemes and even start a blog. That’s right, blogging is possible, too, and you can use it for content marketing and to tell more about your works and process. No need to wait, start the journey now and get the traction going.</p>
+<p>Outplay the competition with a website that is fully imbued with groundbreaking tools and features. Maha is the resume website template you will ever need for your portfolio. It features a fresh and sophisticated look, ideal for job hunters who want to stand out. Of course, even if you are a freelancer, looking to expand your reach, again, Maha will do the trick for you.
+
+This template is truly versatile as it covers every niche possible. There are multiple dark and light layouts to choose from, all formed to provide excellence. Maha is also responsive which elevates your website’s appearance. Not only does this make your website look great, but it also allows for effective online prominence with other modern and practical features. Lastly, contact support immediately as they are welcoming and compliant to answer your questions.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Prorez
+prorez resume website template
+When you want to get online with a one-page website, Prorez is a great template to do it with. It is specially designed for your resume or portfolio to showcase everything in a classic, professional and impactful way. It uses the Elementor page builder with the drag and drop feature to help create the page style you want. Of course, when working with Prorez, you do not need coding skills. You do not have to be a designer either.
+
+You can create a professional introduction for those visiting your page, display your work and offer content to highlight who and what you care about. In short, push your services and talents to new heights. This resume website template is responsive and flexible, making sure your page looks great on all modern browsers and devices. The tool is 100% translatable, too, so you get to alter it to your local audience with ease.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Leven
+leven resume website template
+Leven is a great template to promote yourself in a sophisticated and enticing manner that will get you noticed. The cleanness and minimalism of Leven make sure all the details and custom content stand out beautifully. Even when it comes to different devices and browsers, Leven operates flawlessly for continuous smooth performance.
+
+By using the drag and drop page builder, you will make this resume website template look its best, and you do not need to know how to program to make it happen. Leven lets you create your specialized website best suited to you visually. With six different index page layouts, you can quickly find the right style that serves your intention. With all the other predefined layouts along with various plugins, you should have your one-page website up and live with great content and professional appearance with very little work.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Volos
+volos resume website template
+Building a personal online portfolio website is no trouble once you gain complete access to Volos. With the solution, you can easily make your page stand out from the masses. Volos offers everything you will need to make your site eye-catchy and attention-grabbing. The three predefined demos will give you options to set your style and create your website out of the box. Elementor lets you use its drag and drop technology with simplicity, so you can level up your page with your creative touch. Assembling your page will be a child’s play with Volos.
+
+Some other features of the tool include parallax effect, video background, smooth scrolling, Ajax content loading and child theme. You can add or remove different sections and create the look that is precisely to your liking. Moreover, if you ever find yourself in need of help, you can always reach out to Volos’ fantastic customer support to sort things out.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Arlo
+arlo resume website template
+With Arlo, you will get the total package of website design equipment and more. Perfect for personal websites, freelancers and even agency sites, this is truly one of the best resume website templates currently available on the market. Arlo comes with five unique, original and striking demos and you can expect more to drop with future template updates. On top of that, you can also modify and adjust Arlo to fit your personal brand without hassle.
+
+By utilizing only the latest technologies in web design, it is guaranteed that your website will be mobile-friendly, pixel-perfect and cross-browser compatible. If you would like to get your name out there in a unique and original way, you better consider using Arlo. But first, head over to the live preview page and indulge yourself in the amazingness Arlo brings to the table.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Jonjul
+jonjul resume website template
+Jonjul might become your favorite resume website template thanks to its easy to use structure that creates eye-catchy websites. Fully responsive, Jonjul’s ready-made material looks perfect on either desktop or mobile devices. Moreover, your outcome will also work smoothly on all web browsers and retina screens, ensuring a stable and outstanding experience. You can now create a dark, a light or a gradient-enhanced online resume or CV website that will push your professionalism to new levels.
+
+Other treats of Jonjul are functional contact form, Linea icons, free Google fonts, Bootstrap 4 and impressive typewriter effect. Of course, the hype does not end here. Jonjul is a pack full of goods that will help you succeed no matter what your experience and skills are all about. You also have all the right to modify the web design however you fancy.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Hendrix
+hendrix resume website template
+There is little work and time involved to finish page development when you gain access to Hendrix resume website template. Make it yours by introducing your personal touch to it and attract new visitors and turn them into potential clients. The opportunity is out there and you are leaving a ton of money on the table if you do not have a page created yet.
+
+Equipped with all the required and then some, Hendrix provides loads of options for you to craft something special for yourself. You can utilize one of three different background styles and six color schemes and even start a blog. That’s right, blogging is possible, too, and you can use it for content marketing and to tell more about your works and process. No need to wait, start the journey now and get the traction going.</p>
+<p>Outplay the competition with a website that is fully imbued with groundbreaking tools and features. Maha is the resume website template you will ever need for your portfolio. It features a fresh and sophisticated look, ideal for job hunters who want to stand out. Of course, even if you are a freelancer, looking to expand your reach, again, Maha will do the trick for you.
+
+This template is truly versatile as it covers every niche possible. There are multiple dark and light layouts to choose from, all formed to provide excellence. Maha is also responsive which elevates your website’s appearance. Not only does this make your website look great, but it also allows for effective online prominence with other modern and practical features. Lastly, contact support immediately as they are welcoming and compliant to answer your questions.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Prorez
+prorez resume website template
+When you want to get online with a one-page website, Prorez is a great template to do it with. It is specially designed for your resume or portfolio to showcase everything in a classic, professional and impactful way. It uses the Elementor page builder with the drag and drop feature to help create the page style you want. Of course, when working with Prorez, you do not need coding skills. You do not have to be a designer either.
+
+You can create a professional introduction for those visiting your page, display your work and offer content to highlight who and what you care about. In short, push your services and talents to new heights. This resume website template is responsive and flexible, making sure your page looks great on all modern browsers and devices. The tool is 100% translatable, too, so you get to alter it to your local audience with ease.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Leven
+leven resume website template
+Leven is a great template to promote yourself in a sophisticated and enticing manner that will get you noticed. The cleanness and minimalism of Leven make sure all the details and custom content stand out beautifully. Even when it comes to different devices and browsers, Leven operates flawlessly for continuous smooth performance.
+
+By using the drag and drop page builder, you will make this resume website template look its best, and you do not need to know how to program to make it happen. Leven lets you create your specialized website best suited to you visually. With six different index page layouts, you can quickly find the right style that serves your intention. With all the other predefined layouts along with various plugins, you should have your one-page website up and live with great content and professional appearance with very little work.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Volos
+volos resume website template
+Building a personal online portfolio website is no trouble once you gain complete access to Volos. With the solution, you can easily make your page stand out from the masses. Volos offers everything you will need to make your site eye-catchy and attention-grabbing. The three predefined demos will give you options to set your style and create your website out of the box. Elementor lets you use its drag and drop technology with simplicity, so you can level up your page with your creative touch. Assembling your page will be a child’s play with Volos.
+
+Some other features of the tool include parallax effect, video background, smooth scrolling, Ajax content loading and child theme. You can add or remove different sections and create the look that is precisely to your liking. Moreover, if you ever find yourself in need of help, you can always reach out to Volos’ fantastic customer support to sort things out.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Arlo
+arlo resume website template
+With Arlo, you will get the total package of website design equipment and more. Perfect for personal websites, freelancers and even agency sites, this is truly one of the best resume website templates currently available on the market. Arlo comes with five unique, original and striking demos and you can expect more to drop with future template updates. On top of that, you can also modify and adjust Arlo to fit your personal brand without hassle.
+
+By utilizing only the latest technologies in web design, it is guaranteed that your website will be mobile-friendly, pixel-perfect and cross-browser compatible. If you would like to get your name out there in a unique and original way, you better consider using Arlo. But first, head over to the live preview page and indulge yourself in the amazingness Arlo brings to the table.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Jonjul
+jonjul resume website template
+Jonjul might become your favorite resume website template thanks to its easy to use structure that creates eye-catchy websites. Fully responsive, Jonjul’s ready-made material looks perfect on either desktop or mobile devices. Moreover, your outcome will also work smoothly on all web browsers and retina screens, ensuring a stable and outstanding experience. You can now create a dark, a light or a gradient-enhanced online resume or CV website that will push your professionalism to new levels.
+
+Other treats of Jonjul are functional contact form, Linea icons, free Google fonts, Bootstrap 4 and impressive typewriter effect. Of course, the hype does not end here. Jonjul is a pack full of goods that will help you succeed no matter what your experience and skills are all about. You also have all the right to modify the web design however you fancy.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Hendrix
+hendrix resume website template
+There is little work and time involved to finish page development when you gain access to Hendrix resume website template. Make it yours by introducing your personal touch to it and attract new visitors and turn them into potential clients. The opportunity is out there and you are leaving a ton of money on the table if you do not have a page created yet.
+
+Equipped with all the required and then some, Hendrix provides loads of options for you to craft something special for yourself. You can utilize one of three different background styles and six color schemes and even start a blog. That’s right, blogging is possible, too, and you can use it for content marketing and to tell more about your works and process. No need to wait, start the journey now and get the traction going.</p>
+    <p>Outplay the competition with a website that is fully imbued with groundbreaking tools and features. Maha is the resume website template you will ever need for your portfolio. It features a fresh and sophisticated look, ideal for job hunters who want to stand out. Of course, even if you are a freelancer, looking to expand your reach, again, Maha will do the trick for you.
+
+This template is truly versatile as it covers every niche possible. There are multiple dark and light layouts to choose from, all formed to provide excellence. Maha is also responsive which elevates your website’s appearance. Not only does this make your website look great, but it also allows for effective online prominence with other modern and practical features. Lastly, contact support immediately as they are welcoming and compliant to answer your questions.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Prorez
+prorez resume website template
+When you want to get online with a one-page website, Prorez is a great template to do it with. It is specially designed for your resume or portfolio to showcase everything in a classic, professional and impactful way. It uses the Elementor page builder with the drag and drop feature to help create the page style you want. Of course, when working with Prorez, you do not need coding skills. You do not have to be a designer either.
+
+You can create a professional introduction for those visiting your page, display your work and offer content to highlight who and what you care about. In short, push your services and talents to new heights. This resume website template is responsive and flexible, making sure your page looks great on all modern browsers and devices. The tool is 100% translatable, too, so you get to alter it to your local audience with ease.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Leven
+leven resume website template
+Leven is a great template to promote yourself in a sophisticated and enticing manner that will get you noticed. The cleanness and minimalism of Leven make sure all the details and custom content stand out beautifully. Even when it comes to different devices and browsers, Leven operates flawlessly for continuous smooth performance.
+
+By using the drag and drop page builder, you will make this resume website template look its best, and you do not need to know how to program to make it happen. Leven lets you create your specialized website best suited to you visually. With six different index page layouts, you can quickly find the right style that serves your intention. With all the other predefined layouts along with various plugins, you should have your one-page website up and live with great content and professional appearance with very little work.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Volos
+volos resume website template
+Building a personal online portfolio website is no trouble once you gain complete access to Volos. With the solution, you can easily make your page stand out from the masses. Volos offers everything you will need to make your site eye-catchy and attention-grabbing. The three predefined demos will give you options to set your style and create your website out of the box. Elementor lets you use its drag and drop technology with simplicity, so you can level up your page with your creative touch. Assembling your page will be a child’s play with Volos.
+
+Some other features of the tool include parallax effect, video background, smooth scrolling, Ajax content loading and child theme. You can add or remove different sections and create the look that is precisely to your liking. Moreover, if you ever find yourself in need of help, you can always reach out to Volos’ fantastic customer support to sort things out.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Arlo
+arlo resume website template
+With Arlo, you will get the total package of website design equipment and more. Perfect for personal websites, freelancers and even agency sites, this is truly one of the best resume website templates currently available on the market. Arlo comes with five unique, original and striking demos and you can expect more to drop with future template updates. On top of that, you can also modify and adjust Arlo to fit your personal brand without hassle.
+
+By utilizing only the latest technologies in web design, it is guaranteed that your website will be mobile-friendly, pixel-perfect and cross-browser compatible. If you would like to get your name out there in a unique and original way, you better consider using Arlo. But first, head over to the live preview page and indulge yourself in the amazingness Arlo brings to the table.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Jonjul
+jonjul resume website template
+Jonjul might become your favorite resume website template thanks to its easy to use structure that creates eye-catchy websites. Fully responsive, Jonjul’s ready-made material looks perfect on either desktop or mobile devices. Moreover, your outcome will also work smoothly on all web browsers and retina screens, ensuring a stable and outstanding experience. You can now create a dark, a light or a gradient-enhanced online resume or CV website that will push your professionalism to new levels.
+
+Other treats of Jonjul are functional contact form, Linea icons, free Google fonts, Bootstrap 4 and impressive typewriter effect. Of course, the hype does not end here. Jonjul is a pack full of goods that will help you succeed no matter what your experience and skills are all about. You also have all the right to modify the web design however you fancy.
+
+MORE INFO / DOWNLOAD DEMOGET HOSTING
+Hendrix
+hendrix resume website template
+There is little work and time involved to finish page development when you gain access to Hendrix resume website template. Make it yours by introducing your personal touch to it and attract new visitors and turn them into potential clients. The opportunity is out there and you are leaving a ton of money on the table if you do not have a page created yet.
+
+Equipped with all the required and then some, Hendrix provides loads of options for you to craft something special for yourself. You can utilize one of three different background styles and six color schemes and even start a blog. That’s right, blogging is possible, too, and you can use it for content marketing and to tell more about your works and process. No need to wait, start the journey now and get the traction going.</p>
+
+    <script>
+      var count = 0;
+      if (window.screen.width > 911){
+        document.getElementById("nav").style.height=71+"px !important";
+      }
+      function myf(){
+        if (count == 0){
+        document.getElementById("icon_h1").style.transform="translate(0, 5px)";
+        document.getElementById("icon_h1").style.transform+="rotate(-45deg)";
+        document.getElementById("icon_h3").style.transform="translate(0, -5px)";
+        document.getElementById("icon_h3").style.transform+="rotate(45deg)";
+        count = 1;
+        for (i=0; i<=7; i++) {
+          document.getElementsByClassName("n_l")[i].style.display="block";
+          document.getElementsByClassName("n_l")[i].style.border="none";}
+        $(document).ready(function(){
+        $("#nav").css("height","411px");});}
+        else if(count == 1){
+        document.getElementById("icon_h1").style.transform+="rotate(45deg)";
+        document.getElementById("icon_h1").style.transform="translate(0, 0)";
+        document.getElementById("icon_h3").style.transform+="rotate(-45deg)";
+        document.getElementById("icon_h3").style.transform="translate(0, 0)";
+        count = 0;
+        $(document).ready(function(){
+        $("#nav").css("height","0");});}
+      }
+      </script>
+      <script>
+      var tic = document.getElementById('hed_p');
+      var thed = document.getElementById('hed_h1');
+      var op = document
+        .documentElement.clientHeight/44;
+      var sticky = thed.offsetTop;
+      window.addEventListener('scroll',myFun);
+      function myFun(){
+        var scrollpercent = (document.body.scrollTop+document.documentElement
+          .scrollTop)/(document.documentElement.scrollHeight-document
+            .documentElement.clientHeight);
+        var fade = scrollpercent;
+
+        if (window.matchMedia("(max-width:813px)").matches) {
+          if(window.pageYOffset>122){
+            document.getElementById('but1').style.marginRight= 84 +'px';
+            tic.style.transform="translate(0, -99px)";
+            tic.style.opacity = 0;
+            document.getElementById('but1').style.opacity = 0;
+            document.getElementById('but2').style.opacity = 0;
+            document.getElementById('but1').style.visibility = 'hidden';
+            document.getElementById('but2').style.visibility = 'hidden';
+        }
+          else {
+          document.getElementById('but1').style.marginRight= 14 +'px';
+          tic.style.transform="translate(0, 0)";
+          tic.style.opacity = 1;
+          document.getElementById('but1').style.opacity = 1;
+          document.getElementById('but2').style.opacity = 1;
+          document.getElementById('but1').style.visibility = 'visible';
+          document.getElementById('but2').style.visibility = 'visible';
+        }}
+        else if(window.pageYOffset>222){
+          document.getElementById('but1').style.marginRight= 474 +'px';
+          tic.style.transform="translate(0, -99px)";
+          tic.style.opacity = 0;
+          document.getElementById('but1').style.opacity = 0;
+          document.getElementById('but2').style.opacity = 0;
+          document.getElementById('but1').style.visibility = 'hidden';
+          document.getElementById('but2').style.visibility = 'hidden';
+          document.getElementById('nav').style.backgroundColor = "#8EA2B6";
+        }
+
+        else {
+          document.getElementById('but1').style.marginRight= 31 +'px';
+          tic.style.transform="translate(0, 0)";
+          tic.style.opacity = 1;
+          document.getElementById('but1').style.opacity = 1;
+          document.getElementById('but2').style.opacity = 1;
+          document.getElementById('but1').style.visibility = 'visible';
+          document.getElementById('but2').style.visibility = 'visible';
+          document.getElementById('nav').style.background = "none";
+
+        }
+      }
+
+
+    </script>
+  </body>
+</html>
